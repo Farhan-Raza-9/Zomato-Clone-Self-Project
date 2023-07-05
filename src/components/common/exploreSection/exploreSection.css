@@ -1,0 +1,11 @@
+.explore-section{
+    margin-top: 16px;
+}
+.explore-grid{
+    display: flex;
+    flex: 1;
+    flex: wrap;
+    justify-content: space-between;
+
+
+}
